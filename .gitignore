@@ -34,3 +34,7 @@ dist/*
 .vscode/
 .DS_Store
 Thumbs.db
+todo.md
+
+# Local MCP exploration dumps (analysis only, never submit)
+explore/
